@@ -30,7 +30,7 @@ st.title("Amazon Prime Video Insights Dashboard")
 selection = "Introduction"
 
 # Sidebar for navigation using buttons
-st.sidebar.image(r'assets\Prime video logo.png', width=150)
+st.sidebar.image(r'Prime video logo.png', width=150)
 st.sidebar.header("Navigation")
 
 options = [
